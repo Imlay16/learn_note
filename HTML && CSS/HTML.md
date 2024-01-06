@@ -19,7 +19,7 @@ head : 브라우저가 참고하는 정보들.
 
 body :  html의 컨텐츠를 넣는 곳. 하나만 선언 가능.
 
-<br>
+<br></br>
 💡 다양한 태그들: <https://www.notion.so/oreumi/12a3926f0eb1460bb2d06ac3f77cecd5>
 
 intellij에서 ! + tab을 이용해, html 기본 템플릿 자동 완성
